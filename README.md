@@ -23,6 +23,9 @@ The Traffic Sign Detection System is a powerful tool designed to enhance road sa
 - **OpenCV**: Essential for image processing tasks, including traffic sign detection and recognition.
 - **TensorFlow**: Utilized for deep learning-based detection models, enhancing the system's accuracy and robustness.
 
+## DataSet
+** please find the dataset on kaggle. "the german traffic sign". Since it is a very large file i couldnt make it available here. 
+
 ## Contributing
 Contributions are encouraged! Whether you're interested in improving detection algorithms, adding support for new types of traffic signs, or optimizing performance, your contributions are valuable. Please feel free to open issues or pull requests to collaborate on enhancing the Traffic Sign Detection System.
 
